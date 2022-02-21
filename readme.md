@@ -6,7 +6,7 @@ CDSI 2021-2022
 
 ## HOW TO USE
 
-- Create database thanks to the content in [commandes.sql](commande.sql) (You only have to copy paste) while connect to the DBMS by using phpMyAdmin interface or a CLI. 
+- Create database thanks to the content in [commandes.sql](commande.sql) (You only have to copy paste) when you are connected to the DBMS by using phpMyAdmin interface or a CLI. 
 
 ## REQUIRE
 
